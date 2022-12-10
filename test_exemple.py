@@ -6,6 +6,7 @@ def est_pair(nbr):
 
 
 class MonTest(unittest.TestCase):
+    
     def setUp(self):
         self.liste = list(range(100))
         self.value_test = 5
