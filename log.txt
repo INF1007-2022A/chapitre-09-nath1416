@@ -1,0 +1,5 @@
+DEBUG:root:debug logging test
+INFO:root:info logging test
+WARNING:root:warning logging test
+ERROR:root:error logging test
+CRITICAL:root:critical logging test
